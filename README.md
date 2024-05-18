@@ -1,1 +1,1 @@
-# oop_les2_encapsulation_bedrijf
+# oop_les1_opdracht1_bedrijf_klassen_models
